@@ -1,0 +1,40 @@
+body{
+    font-family: 'roboto', serif; 
+    font-size: medium;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(106, 51, 207, 0.459);
+    color: black;
+    text-align: center;
+}
+head{
+ background-color: lightskyblue;
+ color: black;
+ padding: 10px;
+ text-align: center;
+ font-family: 'roboto', serif;   
+}
+main{
+padding: 25px;    
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    color darkblue;
+}
+p{
+    text-align: center;
+    font-family: 'roboto', serif;
+    color: black;
+    font-size: 2em
+}
+a{
+    text-decoration: none;
+    color: darkblue;
+    font-weight: bold;
+}
+.fab.fa-instagram {
+    font-size: 32px;
+    color: #E1306C; /* Instagram's signature color */
+    vertical-align: middle; /* Align icon with text */
+}
